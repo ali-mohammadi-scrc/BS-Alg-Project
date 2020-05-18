@@ -2,12 +2,17 @@
 
 My course project written in C++ for my bachelor course Algorithm Design at Shiraz University. I've implemented following famous algorithms and data structures:
 	
-	[Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search)
-	[Tarjan's algorithm for find strongly connected components](https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm)
-	[Dijkstra's algorithm for finding shortest path](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
-	[Kruskal's algorithm for finding minimum-spanning-tree](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
-	[Binary-Heap data structure](https://en.wikipedia.org/wiki/Binary_heap)
-	[Disjoint-set data structure](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
+[Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search)
+
+[Tarjan's algorithm for find strongly connected components](https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm)
+
+[Dijkstra's algorithm for finding shortest path](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+
+[Kruskal's algorithm for finding minimum-spanning-tree](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
+
+[Binary-Heap data structure](https://en.wikipedia.org/wiki/Binary_heap)
+
+[Disjoint-set data structure](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
 	
 # Questions
 
