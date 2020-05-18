@@ -16,7 +16,7 @@ My course project written in C++ for my bachelor course Algorithm Design at Shir
 	
 # Questions
 
-This project aims to answare some questions regarding a graph. Consider a graph (G) with  unsigned-weighted and directed edges. The **First Task** is to find strongly connected components of the graph.
+This project aims to answare some questions regarding a graph designed by lecturer and TAs of the course. Consider a graph (G) with  unsigned-weighted and directed edges. The **First Task** is to find strongly connected components of the graph.
 The **Second Task** is to find the minimum-weighted path between some pairs of vertices. For the **Third Task** consider a new graph with C unsigned-weighted vertices corresponding to each of the C strongly connected components in the G.
 Two vertices are connected via a bi-directional edge if their corresponding components were connected in G.
 Now consider H(P(v, w)) is the the minimum weight of vertices in a simple path P(v, w) between vertices v and w and F(v, w) is the maximum H(P(v, w)) for any possible P(v, w). 
